@@ -7,4 +7,5 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## User role management system with login, registration, reset password
+## User role management system with a custom user login, registration, reset password
+Laravel role management system application using laravel-10. Here I use custom registration, login and reset/forget password option successfully. 
